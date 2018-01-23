@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Avada\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
 "POT-Creation-Date: 2017-03-18 02:35:27+00:00\n"
-"PO-Revision-Date: 2016-11-30 13:37-0200\n"
+"PO-Revision-Date: 2018-01-23 17:23-0200\n"
 "Last-Translator: Michael Clarke\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/"
 "avada/language/pt_BR/)\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.0.5\n"
 
 # @ Avada
 #: 404.php:20
@@ -55,9 +55,8 @@ msgstr "Pesquise o Fórum..."
 
 # @ bbpress
 #: bbpress/loop-search-reply.php:38
-#, fuzzy
 msgid "In reply to: "
-msgstr "- Responder"
+msgstr "Responder"
 
 # @ bbpress
 #: bbpress/loop-search-topic.php:44
@@ -1204,8 +1203,7 @@ msgstr "Carrinho"
 
 # @ Avada
 #: includes/avada-functions.php:549 includes/avada-functions.php:580
-#: includes/avada-functions.php:585
-#: includes/lib/inc/templates/rollover.php:210
+#: includes/avada-functions.php:585 includes/lib/inc/templates/rollover.php:210
 #: templates/wc-top-user-container.php:39
 msgid "View Cart"
 msgstr "Ver Carrinho"
@@ -1944,8 +1942,7 @@ msgid "Go to Top"
 msgstr "Ir ao Topo"
 
 # @ Avada
-#: includes/class-avada-scripts.php:584
-#: templates/wc-show-details-button.php:17
+#: includes/class-avada-scripts.php:584 templates/wc-show-details-button.php:17
 msgid "Details"
 msgstr "Detalhes"
 
@@ -5304,8 +5301,8 @@ msgstr "Fundo"
 
 # @ Avada
 #: includes/metaboxes/metaboxes.php:295
-#: includes/metaboxes/tabs/tab_pagetitlebar.php:19
-#: includes/options/blog.php:47 includes/options/page_title_bar.php:27
+#: includes/metaboxes/tabs/tab_pagetitlebar.php:19 includes/options/blog.php:47
+#: includes/options/page_title_bar.php:27
 #: includes/options/page_title_bar.php:34
 #: includes/options/page_title_bar.php:40
 msgid "Page Title Bar"
@@ -5820,20 +5817,19 @@ msgid "Adjust the button shortcode parameters for the second button."
 msgstr "Ajuste os parâmetros do botão shortcode para o segundo botão."
 
 # @ Avada
-#: includes/metaboxes/tabs/tab_background.php:19
-#: includes/options/layout.php:40 includes/options/layout.php:46
+#: includes/metaboxes/tabs/tab_background.php:19 includes/options/layout.php:40
+#: includes/options/layout.php:46
 msgid "Layout"
 msgstr "Layout"
 
 # @ Avada
-#: includes/metaboxes/tabs/tab_background.php:22
-#: includes/options/layout.php:53
+#: includes/metaboxes/tabs/tab_background.php:22 includes/options/layout.php:53
 msgid "Wide"
 msgstr "Panorama"
 
 # @ Avada
-#: includes/metaboxes/tabs/tab_background.php:23
-#: includes/options/layout.php:52 includes/options/portfolio.php:186
+#: includes/metaboxes/tabs/tab_background.php:23 includes/options/layout.php:52
+#: includes/options/portfolio.php:186
 msgid "Boxed"
 msgstr "Em Caixa"
 
@@ -6554,8 +6550,7 @@ msgstr ""
 "selecionada, ela será exibida no lado oposto."
 
 # @ Avada
-#: includes/metaboxes/tabs/tab_sidebars.php:77
-#: includes/options/sidebars.php:76
+#: includes/metaboxes/tabs/tab_sidebars.php:77 includes/options/sidebars.php:76
 msgid "Sidebar Background Color"
 msgstr "Cor do Fundo da Barra Lateral"
 
